@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032565982598",
+    "project_id": "oderfood-54bd5",
+    "storage_bucket": "oderfood-54bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032565982598:android:054b69c11ceaab2311d807",
+        "android_client_info": {
+          "package_name": "com.example.oderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032565982598-bvctg8kjjq9pjc7c8bkm6f3uqb5spmqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWtlfqxwDtht-FSoU2gdObMixHlvzzxnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032565982598-bvctg8kjjq9pjc7c8bkm6f3uqb5spmqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
